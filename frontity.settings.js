@@ -2,7 +2,7 @@ const settings = {
   "name": "my-coupons",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
+      "url": "https://demarket.app",
       "title": "Test Frontity Blog",
       "description": "WordPress installation for Frontity development"
     }
@@ -18,20 +18,24 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Coupons",
+              "/category/coupons"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "Gye",
+              "/tag/gye/"
             ],
             [
-              "Japan",
-              "/tag/japan/"
+              "Uio",
+              "/tag/uio/"
             ],
             [
-              "About Us",
-              "/about-us/"
+              "Blog",
+              "/blog"
+            ],
+            [
+              "Hola Mundo",
+              "/hola-mundo"
             ]
           ],
           "featured": {
@@ -45,7 +49,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://demarket.app"
         }
       }
     },
