@@ -3,8 +3,8 @@ const settings = {
   "state": {
     "frontity": {
       "url": "https://demarket.app",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "title": "My Coupons",
+      "description": "Disccount coupons for all!"
     }
   },
   "packages": [
